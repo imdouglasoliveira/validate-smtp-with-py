@@ -1,0 +1,16 @@
+2025-04-24 18:21:03 [INFO]: Logs sendo salvos no arquivo: logs/smtp_log_20250424_182103.log
+2025-04-24 18:21:08 [INFO]: Iniciando validação de conexão SMTP
+2025-04-24 18:21:13 [INFO]: Servidor: smtp.zoho.com
+2025-04-24 18:21:18 [INFO]: Porta: 465
+2025-04-24 18:21:23 [INFO]: Usuário: gestao@doed.com.br
+2025-04-24 18:21:28 [INFO]: Destinatário de teste: gestaodoed@gmail.com
+2025-04-24 18:21:33 [INFO]: Preparando mensagem de teste...
+2025-04-24 18:21:38 [INFO]: Mensagem preparada com sucesso
+2025-04-24 18:21:43 [INFO]: Tentando conexão com smtp.zoho.com:465 (SSL)...
+2025-04-24 18:21:49 [INFO]: ✓ Conexão SSL estabelecida com sucesso
+2025-04-24 18:21:54 [INFO]: Tentando autenticação...
+2025-04-24 18:21:59 [INFO]: ✓ Autenticação bem-sucedida
+2025-04-24 18:22:04 [INFO]: Enviando e-mail de teste...
+2025-04-24 18:22:10 [INFO]: ✓ E-mail de teste enviado com sucesso
+2025-04-24 18:22:15 [INFO]: Teste de validação SMTP concluído com SUCESSO
+2025-04-24 18:22:20 [INFO]: Finalizando teste de conexão SMTP
