@@ -1,0 +1,17 @@
+[project]
+name = "validate-smtp-with-py"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Douglas Oliveira",email = "63203428+imdsoliveira@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+dependencies = [
+    "taskipy (>=1.14.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
