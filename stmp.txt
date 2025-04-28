@@ -1,0 +1,4 @@
+SMTP_HOST = "smtp.zoho.com"      
+SMTP_PORT = 465                  
+SMTP_USERNAME = "gestao@doed.com.br"
+SMTP_PASSWORD = "WS0gURbaJBEy"

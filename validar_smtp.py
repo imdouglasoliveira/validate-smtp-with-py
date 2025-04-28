@@ -4,10 +4,10 @@ from email.mime.text import MIMEText
 from email.header import Header
 from email.utils import formataddr
 
-SMTP_HOST = "smtp.zoho.com"      
+SMTP_HOST = "smtp.resend.com"      
 SMTP_PORT = 465                  
-SMTP_USERNAME = "gestao@doed.com.br"
-SMTP_PASSWORD = "WS0gURbaJBEy"
+SMTP_USERNAME = "resend"
+SMTP_PASSWORD = "re_R9cULn1u_KcFnoEZTmmT1hYVo9hP4Pvdm"
 
 DESTINATARIO = "gestaodoed@gmail.com"
 ASSUNTO = "Teste de Conexão SMTP"
